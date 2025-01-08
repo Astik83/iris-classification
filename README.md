@@ -36,11 +36,7 @@ Learn more about the dataset [here](https://archive.ics.uci.edu/ml/datasets/iris
 
 ---
 
-## 📊 Visualizations  
-1. 🌟 **Feature Distributions**  
-   ![Histogram Example](https://via.placeholder.com/300)  
-2. 🔥 **Correlation Heatmap**  
-   ![Heatmap Example](https://via.placeholder.com/300)  
+ 
 
 ---
 
