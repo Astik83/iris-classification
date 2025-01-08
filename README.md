@@ -16,7 +16,7 @@ This project demonstrates:
 - 🤖 **Model Training**: Building a Decision Tree Classifier with hyperparameter tuning using GridSearchCV.  
 - 🏆 **Evaluation**: Achieving high accuracy and analyzing the model's performance with metrics.  
 
----
+
 
 
 
@@ -97,7 +97,7 @@ pip install -r requirements.txt
 ### Run the Project  
 - Open Jupyter Notebook and execute the scripts in the **notebooks/** directory.  
 
----
+
 
 
 ---
